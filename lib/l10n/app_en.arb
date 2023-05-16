@@ -1,0 +1,15 @@
+{
+    "appTitle": "welcome",
+    "name": "alexander the great",
+    "jobTitle": "Product Designer",
+    "location": "Iran,Tehran",
+    "summary": "i'm one of the best product designer of middle east and i worked with a lot of great and huge companies with a lot of budget.",
+    "selectedLangauge":"selected langauge",
+    "enLangauge": "English",
+    "faLangauge": "Farsi",
+    "skills": "Skills",
+    "personalInformation": "Personal information",
+    "email": "email",
+    "pass": "password",
+    "save": "save"
+}
